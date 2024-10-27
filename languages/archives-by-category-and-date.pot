@@ -1,0 +1,75 @@
+# Copyright (C) 2019 WEN Solutions
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Archives by Category and Date 1.0.3\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/archives-by-category-and-date\n"
+"POT-Creation-Date: 2019-07-25 09:12:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: build/archives-by-category-and-date/widget/acd-widget.php:19
+#: widget/acd-widget.php:19
+msgid "Archives by Category and Date Widget"
+msgstr ""
+
+#: build/archives-by-category-and-date/widget/acd-widget.php:20
+#: widget/acd-widget.php:20
+msgid ""
+"Archive Widget to Categorize the archives date wise as well as category "
+"wise."
+msgstr ""
+
+#: build/archives-by-category-and-date/widget/acd-widget.php:46
+#: widget/acd-widget.php:46
+msgid "m"
+msgstr ""
+
+#: build/archives-by-category-and-date/widget/acd-widget.php:48
+#: widget/acd-widget.php:48
+msgid "M"
+msgstr ""
+
+#: build/archives-by-category-and-date/widget/acd-widget.php:51
+#: widget/acd-widget.php:51
+msgid "Y"
+msgstr ""
+
+#: build/archives-by-category-and-date/widget/acd-widget.php:103
+#: widget/acd-widget.php:103
+msgid "Archives"
+msgstr ""
+
+#: build/archives-by-category-and-date/widget/acd-widget.php:107
+#: widget/acd-widget.php:107
+msgid "Widget Title:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Archives by Category and Date"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wensolutions.com/plugins/archives-category-date/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin shows archives in a categorized way that is archives are "
+"categorized under category name and date. It filters archives based on that "
+"category and clicked date when they are being displayed in archives page."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WEN Solutions"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wensolutions.com"
+msgstr ""
